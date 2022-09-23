@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/E-consulat-Test/static/css/main.c4949463.css",
+    "main.js": "/E-consulat-Test/static/js/main.882aa906.js",
+    "static/media/laptop.png": "/E-consulat-Test/static/media/laptop.b0215baed41b6bd7c06e.png",
+    "index.html": "/E-consulat-Test/index.html",
+    "main.c4949463.css.map": "/E-consulat-Test/static/css/main.c4949463.css.map",
+    "main.882aa906.js.map": "/E-consulat-Test/static/js/main.882aa906.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4949463.css",
+    "static/js/main.882aa906.js"
+  ]
+}
